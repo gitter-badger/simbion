@@ -1,0 +1,22 @@
+{
+  "name": "simbion",
+  "description": "Gear Damage, Heal, Threat Simulator for Albion Online",
+  "scripts": {
+  },
+  "env": {
+    "APP_KEY": {
+      "required": true
+    },
+    "APP_LOG": {
+      "required": true
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-php"
+    }
+  ]
+}
