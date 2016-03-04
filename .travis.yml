@@ -6,7 +6,7 @@ install: composer install --no-interaction --prefer-source
 
 addons:
     code_climate:
-        repo_token: b7937f18d77b560acaee7fd9d01c6ad795c04954605de886efd8a4fa8e2a031c
-
+        repo_token: 8f1b95eef403d715c37313a6e5903cdd324735acb7a2d221534f8da285ff3dc4
+        
 after_script:
   - vendor/bin/test-reporter
