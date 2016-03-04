@@ -40,6 +40,7 @@
             <div class="content">
                 <div class="title">Simbion</div>
                 <p>Simulador de Dano, Threat e Heal pro Albion Online</p>
+                <p>Work in Progress</p>
             </div>
         </div>
     </body>
