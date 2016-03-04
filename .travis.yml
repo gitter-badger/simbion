@@ -1,0 +1,12 @@
+language: php
+php:
+    - '7.0'
+
+install: composer install --no-interaction --prefer-source
+
+addons:
+    code_climate:
+        repo_token: 1e415c9b68eed4a3b05c20db5b0398dee0f73ee46d23492827db3a753127e5b3
+
+after_script:
+  - vendor/bin/test-reporter
