@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "xaxim/simbion",
+    "description": "Gear Damage, Heal, Threat Simulator for Albion Online",
+    "keywords": ["albion", "simulator", "calculator", "ao"],
     "license": "MIT",
     "type": "project",
     "require": {
