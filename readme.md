@@ -6,4 +6,4 @@
 
 ----------
 
-Simbion will help you choose weapons by calcutating raw damage / heal / threat per second for each weapon when using spells.
+Simbion will help you choose weapons by calcutating raw damage / heal / threat per second for each weapon considering auto-attack and spells.
