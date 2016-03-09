@@ -16,7 +16,7 @@
                 width: 100%;
                 display: table;
                 font-weight: 100;
-                font-family: 'Lato';
+                font-family: 'Lato', serif;
             }
 
             .container {
@@ -40,25 +40,12 @@
         <div class="container">
             <div class="content">
                 <div class="title">Simbion</div>
-                <p>Simulador de Dano, Threat e Heal pro Albion Online</p>
-                <p>Work in Progress</p>
-                <table>
-                    <tr>
-                        <th>Arma</th>
-                        <th>DPS Físico</th>
-                        <th>DPS Mágico</th>
-                        <th>Spell 1</th>
-                        <th>Spell 2</th>
-                        <th>Spell 3</th>
-                        <th>Spell 4</th>
-                    </tr>
-                    <tr>
-                        <td><input type="text" name="arma"> </td>
-                        <td><input type="number" name="phydmg"> </td>
-                        <td><input type="number" name="magdmg"></td>
-                    </tr>
-
-                </table>
+                <p>Albion Online Weapon Decision Helper</p>
+                <hr>
+                <p>Choose your path:</p>
+                <a href="">Warrior</a>
+                <a href="">Hunter</a>
+                <a href="">Mage</a>
             </div>
         </div>
     </body>
